@@ -1,8 +1,6 @@
-# 代码集合
-
 # javascript
 
-## puppeteer截图
+### puppeteer截图
 
 javascript/puppeteer-screenshot.js
 
@@ -18,13 +16,13 @@ javascript/puppeteer-screenshot.js
 
 建议把下面的`shell`都做成 `alias`
 
-## Mac系统在终端PS1下查看Git分支
+### Mac系统在终端PS1下查看Git分支
 
 ```shell
 shell/git_branch.sh
 ```
 
-## 在浏览器 open merge_requests
+### 在浏览器 open merge_requests
 
 ```shell
 shell/open_merge_request.sh
