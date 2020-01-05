@@ -12,7 +12,26 @@ javascript/puppeteer-screenshot.js
 - https://github.com/GoogleChrome/puppeteer/issues/844
 - [如何使用nodejs抓取具有懒加载机制的页面链接](https://github.com/chenxiaochun/blog/issues/35)
 
+# python3
+
 # shell
+
+建议把下面的`shell`都做成 `alias`
+
+## Mac系统在终端PS1下查看Git分支
+
+```shell
+shell/git_branch.sh
+```
+
+## 在浏览器 open merge_requests
+
+```shell
+shell/open_merge_request.sh
+```
+
+
+
 
 
 
